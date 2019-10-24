@@ -6,11 +6,11 @@ import Nav from '../components/nav'
 const About = () => (
 
   <>
-    <Head title="About" />
+    <Head title="Extra Credit" />
     <Nav />
 
     <div>
-        What's up!
+        This page Works!
     </div>
   </>
 
