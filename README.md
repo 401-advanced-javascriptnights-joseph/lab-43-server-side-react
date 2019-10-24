@@ -14,24 +14,12 @@
 #### `head.js`
 #### `nav.js`
 
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
 ### Setup
 #### `.env` requirements
 * `PORT` - 3000
 
 #### Running the app
 * `npm run dev` - to compile, and enter in `http://localhost:3000` in browser
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Endpoint: `localhost:3000/counter`
+* Endpoint: `localhost:3000/about`
   
-#### UML
-Link to an image of the UML for your application and response to events
