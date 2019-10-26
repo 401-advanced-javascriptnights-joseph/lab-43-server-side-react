@@ -3,6 +3,8 @@ import "../styles/counter.scss";
 import React from 'react'
 import Head from '../components/head'
 import Nav from '../components/nav'
+import Link from 'next/link'
+
 
 const Counter = (props) => {
 
